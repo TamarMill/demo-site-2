@@ -1,0 +1,50 @@
+body {
+  font-size: 16px;
+  background-color: #f1b389;
+}
+
+form {
+  font-size: 10px;
+  border: 2px solid rgb(142, 166, 231);
+  background-color: #e7d7b3;
+}
+header {
+  color: rgb(231, 92, 74);
+  font-size: 50px;
+}
+
+div .tasks {
+  padding: 10px;
+  margin-left: 50%;
+  font-size: 300px;
+  border: 2px solid rgb(231, 142, 142);
+  width: 165px;
+  background-color: #e2a821;
+}
+button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  padding: 10px;
+  margin-right: 0px;
+  background-color: #ff00c831;
+  color: rgb(226, 100, 27);
+  border: 2px solid #f189db;
+}
+
+.todo .List {
+  width: 250px;
+  color: rgb(226, 100, 27);
+  font-size: 30px;
+  background-color: rgb(242, 243, 192);
+  margin-left: 20%;
+  padding-bottom: 40px;
+}
+.todo .List li {
+  color: rgb(8, 22, 104);
+  padding: 20px;
+  margin-bottom: 20px;
+  list-style: inside;
+  list-style-type: number;
+  font-size: 35px;
+}
